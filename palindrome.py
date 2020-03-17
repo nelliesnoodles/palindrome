@@ -2,8 +2,9 @@
 # forwards as backwards, such as "racecar" or
 # "I am amama ma I".
 
+"""
 BPS ="Binary Palindrome Search"
-
+"""
         
 
 def BPS(astring):
