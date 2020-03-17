@@ -92,7 +92,7 @@ def string_loop(mid, astring):
         back_index = mid + j
         front_index = mid - j 
         #print("mid = ", mid)
-        x = astring[front_index: back_index]
+        x = astring[front_index: back_index + 1]
         print("back_index = ", back_index)
         print("front_index =", front_index)
 
